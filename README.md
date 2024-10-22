@@ -18,7 +18,7 @@ Para abrir la pagina del cliente hay que ingresar, desde la terminal, en /client
 
 *Desde Thunder Client:*
 
-![Método GET (Principal) Thunder Client](Pasted image 20241022000132.png)
+![Método GET (Principal) Thunder Client](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022000132.png)
 
 *Desde Web:*
 
