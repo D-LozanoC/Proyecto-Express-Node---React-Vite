@@ -22,7 +22,7 @@ Para abrir la pagina del cliente hay que ingresar, desde la terminal, en /client
 
 *Desde Web:*
 
-![Método GET (Principal) Web](Pasted image 20241022000240.png)
+![Método GET (Principal) Web](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022000240.png)
 
 **Conclusiones:** Me mostró todos los datos del archivo JSON
 
@@ -33,11 +33,11 @@ Para abrir la pagina del cliente hay que ingresar, desde la terminal, en /client
 
 *Desde Thunder Client:*
 
-![Método GET (Individual) Thunder Client](Pasted image 20241022000615.png)
+![Método GET (Individual) Thunder Client](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022000615.png)
 
 *Desde Web:*
 
-![Método GET (Individual) Web](Pasted image 20241022000544.png)
+![Método GET (Individual) Web](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022000544.png)
 
 **Conclusiones:** Me mostro el registro con el id pedido
 
@@ -48,7 +48,7 @@ Para abrir la pagina del cliente hay que ingresar, desde la terminal, en /client
 
 *Desde Thunder Client:*
 
-![Método POST](Pasted image 20241022000712.png)
+![Método POST](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022000712.png)
 
 **Conclusiones:** Genero un nuevo registro de los parámetros que le pedí
 
@@ -59,7 +59,7 @@ Para abrir la pagina del cliente hay que ingresar, desde la terminal, en /client
 
 *Desde Thunder Client:*
 
-![Método PUT](Pasted image 20241022001144.png)
+![Método PUT](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022001144.png)
 
 **Conclusiones:** Cambió el registro con el id y parámetros que le pedí
 
@@ -70,7 +70,7 @@ Para abrir la pagina del cliente hay que ingresar, desde la terminal, en /client
 
 *Desde Thunder Client:*
 
-![Método DELETE](Pasted image 20241022001315.png)
+![Método DELETE](https://github.com/D-LozanoC/Proyecto-Express-Node---React-Vite/blob/master/Pasted%20image%2020241022001315.png)
 
 **Conclusiones:** Borro el registro con el id que le pedí
 
