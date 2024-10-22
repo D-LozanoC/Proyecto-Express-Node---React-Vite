@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nombre": "Zapatos A",
+    "valor": 19.3,
+    "enStock": true,
+    "createdOn": "2024-10-21T21:51:55.838Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Zapatos B",
+    "valor": 206.3,
+    "enStock": false,
+    "createdOn": "2024-10-21T21:51:55.838Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatos C",
+    "valor": 56,
+    "enStock": true,
+    "createdOn": "2024-10-21T21:51:55.838Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Zapatos D",
+    "valor": 63.8,
+    "enStock": true,
+    "createdOn": "2024-10-21T21:51:55.838Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Zapatos E",
+    "valor": 39.4,
+    "enStock": false,
+    "createdOn": "2024-10-21T21:51:55.838Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Zapatos Z",
+    "valor": 52.9,
+    "enStock": false,
+    "createdOn": "2024-10-21T23:06:51.669Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Zapatos Y",
+    "valor": 24.6,
+    "enStock": false,
+    "createdOn": "2024-10-21T23:55:48.128Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Zapatos W",
+    "valor": 37,
+    "enStock": false,
+    "createdOn": "2024-10-22T04:14:20.085Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Zapatos P",
+    "valor": 38.6,
+    "enStock": false,
+    "createdOn": "2024-10-22T04:14:42.354Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Zapatos L",
+    "valor": 38.5,
+    "enStock": false,
+    "createdOn": "2024-10-22T04:17:16.276Z"
+  },
+  {
+    "id": 11,
+    "nombre": "Zapatos K",
+    "valor": 38.5,
+    "enStock": false,
+    "createdOn": "2024-10-22T04:21:24.959Z"
+  }
+]
