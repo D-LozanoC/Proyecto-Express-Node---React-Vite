@@ -62,8 +62,6 @@ app.post('/api', function (req, res) {
     let itemIds = data.map(item => item.id);
     let newId = itemIds.length > 0 ? Math.max.apply(Math, itemIds) + 1 : 1;
 
-    console.log(req.body);
-
     let newItem = {
         id: newId,
         nombre: req.body.nombre,
@@ -108,7 +106,7 @@ app.put('/api/:id', function (req, res) {
         storageData(urlData, data);
 
         console.log("Updated")
-        res.status(204).json(updated);
+        res.status(200).json(updated);
     } else {
         res.sendStatus(500);
     }
@@ -138,7 +136,7 @@ app.delete('/api/:id', function (req, res) {
 
     storageData(urlData, data);
 
-    res.status(204).json(found);
+    res.status(200).json(found);
 });
 
 

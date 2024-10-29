@@ -7,13 +7,6 @@
     "createdOn": "2024-10-21T21:51:55.838Z"
   },
   {
-    "id": 2,
-    "nombre": "Zapatos B",
-    "valor": 206.3,
-    "enStock": false,
-    "createdOn": "2024-10-21T21:51:55.838Z"
-  },
-  {
     "id": 3,
     "nombre": "Zapatos C",
     "valor": 56,
@@ -75,5 +68,19 @@
     "valor": 38.5,
     "enStock": false,
     "createdOn": "2024-10-22T04:21:24.959Z"
+  },
+  {
+    "id": 12,
+    "nombre": "Nike Donk",
+    "valor": 500,
+    "enStock": false,
+    "createdOn": "2024-10-29T14:11:09.223Z"
+  },
+  {
+    "id": 13,
+    "nombre": "Chanclas",
+    "valor": 200,
+    "enStock": false,
+    "createdOn": "2024-10-29T14:19:08.932Z"
   }
 ]

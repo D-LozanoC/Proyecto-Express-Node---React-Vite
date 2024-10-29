@@ -1,0 +1,35 @@
+### GET 
+
+GET http://localhost:3000/api
+
+### GET user by ID
+
+GET http://localhost:3000/api/1
+
+
+### POST 
+
+POST http://localhost:3000/api
+Content-Type: application/json
+
+{
+  "nombre": "Chanclas",
+  "valor": 200
+}
+
+
+### PUT
+
+PUT http://localhost:3000/api/2
+Content-Type: application/json
+
+{
+    "nombre": "Chanclas",
+  "valor": 300,
+  "enStock": true
+
+}
+
+#### DELETE
+
+DELETE http://localhost:3000/api/2
